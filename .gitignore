@@ -1,0 +1,32 @@
+# Java / Maven
+/target/
+**/target/
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+
+# Maven wrapper (if added later)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.coverage
+
+# Editors
+.vscode/
+
+# OS / Misc
+.DS_Store
+Thumbs.db
